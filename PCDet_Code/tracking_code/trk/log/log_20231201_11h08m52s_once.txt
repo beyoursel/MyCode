@@ -1,0 +1,9 @@
+
+
+********* Parameters for Car *********
+matching algorithm is hungar
+distance metric is giou_3d
+distance threshold is -0.200000
+min hits is 3.000000
+max age is 2.000000
+ego motion compensation is 1

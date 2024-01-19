@@ -1,0 +1,17 @@
+# ----------------------------General Options------------------
+description: 3D-Tracking
+seed: 0
+
+
+
+# main_tracking.py
+dataset: once
+det_name: centerpoint
+cat_list: ['Car'] #['Car', 'Bus', 'Truck', 'Pedestrian', 'Cyclist']
+detections: /media/taole/ssd1/letaotao/OpenPCDet_New/tracking_code/detections/centerpoint_car_000028.txt
+
+
+# mode.py
+ego_com: true
+vis: false
+affi_pro: true
